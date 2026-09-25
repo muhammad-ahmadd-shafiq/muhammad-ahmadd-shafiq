@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Muhammad Ahmad</h1>
 <h3 align="center">DevOps and Cloud Engineer in training. Building secure, automated, zero-downtime delivery pipelines</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-blue" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20Entry--Level%20Roles-brightgreen" alt="Status"/>
-  <img src="https://img.shields.io/badge/CEH-Certified-critical" alt="CEH Certified"/>
-</p>
-
 ---
 
 ### About Me
@@ -101,15 +95,6 @@ A full observability stack for Kubernetes clusters, deployed the way production 
 
 "SecureGitOps: A Continuously-Verified CI/CD Pipeline with Integrated Attack Simulation and Real-Time Security Dashboard"
 Built in collaboration with a penetration-testing-focused teammate, this project extends the Zero-Downtime GitOps Pipeline with supply-chain security controls and structured red-team attack simulation, surfaced through a live web dashboard showing pipeline runs, deployment status, security scan results, and per-build security scores.
-
----
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-ahmadd-shafiq&show_icons=true&theme=default&count_private=true" alt="Ahmad's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ahmadd-shafiq" alt="Ahmad's GitHub Streak" height="165"/>
-</p>
 
 ---
 
